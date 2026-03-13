@@ -1,6 +1,6 @@
 # Open-Source Freestyle
 
-Source code for my meme rap about Arch Linux, programming, and vibe coding.
+Source code for my beautiful song about Arch Linux, programming, and vibe coding.
 
 This repo contains the core audio assets used for the YouTube video:
 
