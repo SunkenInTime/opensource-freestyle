@@ -6,6 +6,8 @@ This repo contains the core audio assets used for the YouTube video:
 
 - `original/valo diss vocals.mp3` - original vocals
 - `original/vacant (prod. Ezo).mp3` - original beat
+- `vocals.mp3` - vocals (extended)
+- `beat.mp3` - beat (extended)
 
 ## Video
 
