@@ -4,8 +4,8 @@ Source code for my beautiful song about Arch Linux, programming, and vibe coding
 
 This repo contains the core audio assets used for the YouTube video:
 
-- `valo diss vocals.mp3` - vocals
-- `vacant (prod. Ezo).mp3` - beat
+- `original/valo diss vocals.mp3` - original vocals
+- `original/vacant (prod. Ezo).mp3` - original beat
 
 ## Video
 
